@@ -6,11 +6,11 @@
         }
     ],
     "@type": "reproschema:Protocol",
-    "@id": "Week2_schema",
+    "@id": "Week3_schema",
     "prefLabel": {
-        "en": "Week2 Session"
+        "en": "Week3 Session"
     },
-    "description": "Week 2 Testing Session for Mumble Melody Longitudinal Study",
+    "description": "Week 3 Testing Session for Mumble Melody Longitudinal Study",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
     "landingPage": [{
