@@ -1,0 +1,29 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0-rc4/contexts/generic",
+    "@type": "reproschema:Field",
+    "@id": "open_question_choice_1",
+    "prefLabel": "Choice to answer open question",
+    "description": "Choice to answer open question - radio item",
+    "schemaVersion": "1.0.0-rc4",
+    "version": "0.0.1",
+    "question": "Which of the following two questions would you like to answer? (90 seconds)<b>",
+    "ui": {
+        "inputType": "radio"
+    },
+    "responseOptions": {
+        "valueType": "xsd:integer",
+        "minValue": 0,
+        "maxValue": 1,
+        "multipleChoice": false,
+        "choices": [
+            {
+                "name": "If you could make a holiday, what would it be like? What traditions would it have? What would people eat on your holiday?",
+                "value": 0
+            },
+            {
+                "name": "Who’s the oldest person you know personally? What interesting stories have they told you?",
+                "value": 1
+            }
+        ]
+    }
+}
