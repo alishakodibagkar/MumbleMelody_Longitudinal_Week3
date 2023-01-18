@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is a problem you have had that you are proud to have solved, and how did you solve it?",
+                "name": "What do you spend the most time thinking about?",
                 "value": 0
             },
             {
-                "name": "If your mind was an island, what would it look like?",
+                "name": "What are your favorite public places to be in?",
                 "value": 1
             }
         ]

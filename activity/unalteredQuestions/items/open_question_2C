@@ -6,7 +6,7 @@
     "description": "This is a audio passage record item.",
     "schemaVersion": "1.0.0-rc4",
     "version": "0.0.1",
-    "question": "Answer the following question for 90 seconds:<br><b>Talk about the first time you were away from home<b>",
+    "question": "Answer the following question for 90 seconds:<br><b>Tell me about something you are absolutely determined to do in your life.<b>",
     "ui": {
         "inputType": "audioCheck"
     },

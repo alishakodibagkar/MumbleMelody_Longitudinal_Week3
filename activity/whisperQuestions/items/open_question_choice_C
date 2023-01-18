@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "If you could have one superpower, which one would it be and why?",
+                "name": "What is something you will NEVER do again? Why?",
                 "value": 0
             },
             {
-                "name": "What is an invention that you have seen happen in your lifetime that you would not have expected?",
+                "name": "Do you like sports? Why? Which ones do you like? What is your favorite team/player?",
                 "value": 1
             }
         ]

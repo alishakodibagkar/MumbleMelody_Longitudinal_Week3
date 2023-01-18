@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What are 3 objects you would rescue from a fire?",
+                "name": "What do you always keep in your fridge?",
                 "value": 0
             },
             {
-                "name": "Who is your oldest friend? How did you meet them?",
+                "name": "What would you say is your spirit animal and why?",
                 "value": 1
             }
         ]

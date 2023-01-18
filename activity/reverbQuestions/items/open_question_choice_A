@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is a problem you have had that you are proud to have solved, and how did you solve it?",
+                "name": "What do you spend the most time thinking about?",
                 "value": 0
             },
             {
-                "name": "What is one object from your childhood that you could never throw away?",
+                "name": "When was the last time you worked incredibly hard?",
                 "value": 1
             }
         ]

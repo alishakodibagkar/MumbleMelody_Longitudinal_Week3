@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is your go-to karaoke song and why?",
+                "name": "Where is the worst place you have been stuck for a long time?",
                 "value": 0
             },
             {
-                "name": "If you could have one superpower, which one would it be and why?",
+                "name": "What is something you will NEVER do again? Why?",
                 "value": 1
             }
         ]

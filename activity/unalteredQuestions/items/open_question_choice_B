@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Tell me about your oldest memory.",
+                "name": "Talk about something you broke.",
                 "value": 0
             },
             {
-                "name": "What could you give a 40-minute presentation on with absolutely no preparation?",
+                "name": "Do you want to retire someday? What do you want to do when you retire?",
                 "value": 1
             }
         ]

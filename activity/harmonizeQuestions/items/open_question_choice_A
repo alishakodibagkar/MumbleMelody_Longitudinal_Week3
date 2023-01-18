@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "If you could make a holiday, what would it be like? What traditions would it have? What would people eat on your holiday?",
+                "name": "What habit do you have now that you wish you started much earlier?",
                 "value": 0
             },
             {
-                "name": "Who’s the oldest person you know personally? What interesting stories have they told you?",
+                "name": "What is your favorite article of clothing that you own and why?",
                 "value": 1
             }
         ]

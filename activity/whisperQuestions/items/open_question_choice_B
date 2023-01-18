@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is your go-to karaoke song and why?",
+                "name": "Where is the worst place you have been stuck for a long time?",
                 "value": 0
             },
             {
-                "name": "What is an invention that you have seen happen in your lifetime that you would not have expected?",
+                "name": "Do you like sports? Why? Which ones do you like? What is your favorite team/player?",
                 "value": 1
             }
         ]

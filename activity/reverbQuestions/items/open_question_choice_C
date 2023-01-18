@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "What is one object from your childhood that you could never throw away?",
+                "name": "When was the last time you worked incredibly hard?",
                 "value": 0
             },
             {
-                "name": "If your mind was an island, what would it look like?",
+                "name": "What are your favorite public places to be in?",
                 "value": 1
             }
         ]

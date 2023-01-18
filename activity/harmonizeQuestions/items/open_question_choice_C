@@ -17,11 +17,11 @@
         "multipleChoice": false,
         "choices": [
             {
-                "name": "Who’s the oldest person you know personally? What interesting stories have they told you?",
+                "name": "What is your favorite article of clothing that you own and why?",
                 "value": 0
             },
             {
-                "name": "What topic could you spend hours talking about?",
+                "name": "If you could meet anyone from the past, who and why?",
                 "value": 1
             }
         ]
