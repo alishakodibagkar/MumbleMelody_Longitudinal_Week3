@@ -7,7 +7,7 @@ module.exports = {
   banner: 'Week 3 Testing Session for Mumble Melody Longitudinal Study',
   assetsPublicPath: '/MumbleMelody_Longitudinal_Week3/',
   contact: 'akodiba1@mit.edu',
-  backendServer: 'https://sig.mit.edu/vb',
+  backendServer: 'https://mumble-melody.dandiarchive.org',
   showHelp: true,
   checkMediaPermission: true
 };
